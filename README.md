@@ -1,0 +1,3 @@
+# GitPractices
+
+Practicing with GitHub
